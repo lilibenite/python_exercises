@@ -1,6 +1,6 @@
 # Name: Lili
 # Project: Python Exercises
-# Exercises 1–10
+# Exercises 1–30
 
 # -------------------------
 # Exercise 1
